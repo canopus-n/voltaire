@@ -56,7 +56,7 @@
     "@value": "blake2b-256"
   },
   "body": {
-    "doNotList": true,
+    "doNotList": false,
     "givenName": {
       "@value": "canopus-n"
     },

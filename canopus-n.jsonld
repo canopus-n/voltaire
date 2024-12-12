@@ -81,15 +81,6 @@
         "uri": {
           "@value": "https://github.com/canopus-n"
         }
-      },
-      {
-        "@type": "Identity",
-        "label": {
-          "@value": "Github"
-        },
-        "uri": {
-          "@value": "https://github.com/canopus-n"
-        }
       }
     ]
   }

@@ -72,6 +72,25 @@
     "qualifications": {
       "@value": ""
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Gtihub"
+        },
+        "uri": {
+          "@value": "https://github.com/canopus-n"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "Github"
+        },
+        "uri": {
+          "@value": "https://github.com/canopus-n"
+        }
+      }
+    ]
   }
 }
